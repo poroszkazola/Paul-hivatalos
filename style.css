@@ -1,0 +1,60 @@
+body{
+background-image: url('Paul.jpg') ;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+#face{
+    width: 450px;
+    border:5px solid #ffffff;
+    margin-left: 140px;
+}
+#élete{
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 90%;
+
+}
+#temetés{
+    float: right;
+    width: 300px;
+    border: 5px solid  #ffffff; ;
+
+}
+#kocsi{
+    width: 400px;
+    border:5px solid #ffffff;
+    float: left;
+    margin-top: 100px;
+    margin-right: 500px;
+
+}
+#élt{
+    float: right;
+    margin-top: 400px;
+    margin-right: 100px;
+}
+#cim{
+    color: rgb(255, 255, 255);
+}
+#bales{
+    float: left;
+    margin-bottom:500px;
+    margin-right: -70px;
+    
+
+}
+#baleset{
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 120%;
+}
+#car{
+    float: left;
+    margin-left: -820px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    margin-top: 50px;
+}
+
+
